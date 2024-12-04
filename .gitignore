@@ -1,0 +1,13 @@
+.venv/
+
+__pycache__/
+
+*__pycache__*
+
+.idea/
+
+*.py[cod]
+
+tmp_abc.py
+
+tmp_*
